@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------
+Error-2017-10-27 09:34:03    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 353
+----------------------------------------------------------------------------
+Error-2017-10-27 09:34:03    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 346
+----------------------------------------------------------------------------
+Error-2017-10-27 09:34:10    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.IntGdipReleaseDC(HandleRef graphics, HandleRef hdc)
+   在 System.Drawing.Graphics.ReleaseHdcInternal(IntPtr hdc)
+   在 System.Drawing.Graphics.ReleaseHdc(IntPtr hdc)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 66
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 353
+----------------------------------------------------------------------------
+Error-2017-10-27 09:34:10    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 346
+----------------------------------------------------------------------------
+Error-2017-10-27 09:35:06    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“FormClient”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RemoteScreenViewer.FormClient.SetText(Control c, String text) 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 302
+   在 RemoteScreenViewer.FormClient.receiveDataThreadRun() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 204

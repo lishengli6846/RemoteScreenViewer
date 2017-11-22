@@ -1,0 +1,11 @@
+----------------------------------------------------------------------------
+Error-2017-10-24 23:18:12    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 RemoteScreenViewer.FormClient.xianshi() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 145
+----------------------------------------------------------------------------
+Error-2017-10-24 23:18:20    System.ArgumentException: 参数无效。
+   在 System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   在 System.Drawing.Image.FromStream(Stream stream)
+   在 RemoteScreenViewer.FormClient.xianshi() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 157

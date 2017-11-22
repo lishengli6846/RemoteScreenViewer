@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------
+Error-2017-10-30 09:28:51    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“FormClient”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RemoteScreenViewer.FormClient.SetText(Control c, String text) 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 302
+   在 RemoteScreenViewer.FormClient.receiveDataThreadRun() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 204
+----------------------------------------------------------------------------
+Error-2017-10-30 09:29:01    System.IO.IOException: 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.StreamReader.ReadBuffer()
+   在 System.IO.StreamReader.ReadLine()
+   在 RemoteScreenViewer.FormClient.xiaoxi() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 225
+----------------------------------------------------------------------------
+Error-2017-10-30 09:29:59    System.FormatException: 指定了无效的 IP 地址。
+   在 System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 340
+----------------------------------------------------------------------------
+Error-2017-10-30 09:30:03    System.IO.IOException: 无法从传输连接中读取数据: 一个封锁操作被对 WSACancelBlockingCall 的调用中断。。 ---> System.Net.Sockets.SocketException: 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.StreamReader.ReadBuffer()
+   在 System.IO.StreamReader.ReadLine()
+   在 RemoteScreenViewer.FormClient.xiaoxi() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 225
+----------------------------------------------------------------------------
+Error-2017-10-30 09:32:04    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“FormClient”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RemoteScreenViewer.FormClient.SetText(Control c, String text) 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 302
+   在 RemoteScreenViewer.FormClient.receiveDataThreadRun() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 204

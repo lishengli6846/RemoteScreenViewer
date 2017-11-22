@@ -1,0 +1,13 @@
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\bin\Debug\Config.ini
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\bin\Debug\RemoteScreenViewerController.exe
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\bin\Debug\RemoteScreenViewerController.pdb
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\bin\Debug\RemoteScreenViewer.exe
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\bin\Debug\RemoteScreenViewer.pdb
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.csprojResolveAssemblyReference.cache
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.FormRename.resources
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.FormServer.resources
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.Properties.Resources.resources
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.csproj.GenerateResource.Cache
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.exe
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\obj\Debug\RemoteScreenViewerController.pdb
+D:\lishengli\RemoteScreenViewer\RemoteScreenViewerController\bin\Debug\ServerConfig.ini

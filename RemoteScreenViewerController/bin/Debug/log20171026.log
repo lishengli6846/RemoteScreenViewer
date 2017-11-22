@@ -1,0 +1,569 @@
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:17    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:17    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:18    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:18    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:18    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:19    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:19    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:20    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:20    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:20    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:21    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:21    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:34    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:34    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:35    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:35    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:35    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:35    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:35    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:35    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:36    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:36    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:36    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:36    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:36    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:37    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:37    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:37    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:37    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:37    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:38    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:38    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:38    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:38    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:38    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:38    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:39    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:39    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:39    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:40    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:40    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:40    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:40    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:40    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:40    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:44    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:44    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:46    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:46    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:47    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:47    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:47    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:51    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:51    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:52    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:52    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:53    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:53    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:53    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:54    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:54    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:54    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 70
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:54    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:55    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:55    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:55    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:55    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:55    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:56    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:56    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:56    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:56    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:56    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:57    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:57    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:57    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:57    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:58    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:58    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:58    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:58    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:58    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:58    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:59    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:59    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:59    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:34:59    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:00    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:00    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:00    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:01    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:01    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:01    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:01    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:02    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:02    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:02    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:02    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:02    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:02    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:03    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:03    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:04    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:05    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:05    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:07    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:07    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:09    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:09    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:11    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:11    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:11    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:15    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:15    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:15    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:17    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:17    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:18    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:18    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:20    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 360
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:20    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:21    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:21    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:21    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:21    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:22    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:22    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:22    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.ScreenTransversal.BitBlt(IntPtr hdcDest, Int32 nXDest, Int32 nYDest, Int32 nWidth, Int32 nHeight, IntPtr hdcSrc, Int32 nXSrc, Int32 nYSrc, Int32 dwRop)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 62
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:22    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:23    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:23    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:23    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:24    System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Drawing.SafeNativeMethods.Gdip.GdipSaveImageToStream(HandleRef image, IStream stream, Guid& classId, HandleRef encoderParams)
+   在 System.Drawing.Image.Save(Stream stream, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 RemoteScreenViewer.ScreenTransversal.ScreenJpeg() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\ScreenTransversal.cs:行号 71
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 349
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:24    System.Threading.ThreadAbortException: 正在中止线程。
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 342
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:24    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.NetworkStream”。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 RemoteScreenViewer.FormClient.jietu() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 354
+----------------------------------------------------------------------------
+Error-2017-10-26 11:35:32    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“FormClient”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RemoteScreenViewer.FormClient.SetText(Control c, String text) 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 298
+   在 RemoteScreenViewer.FormClient.receiveDataThreadRun() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 200
+----------------------------------------------------------------------------
+Error-2017-10-26 19:18:52    System.IO.IOException: 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.StreamReader.ReadBuffer()
+   在 System.IO.StreamReader.ReadLine()
+   在 RemoteScreenViewer.FormClient.xiaoxi() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 222
+----------------------------------------------------------------------------
+Error-2017-10-26 19:22:45    System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“FormClient”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RemoteScreenViewer.FormClient.SetText(Control c, String text) 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 299
+   在 RemoteScreenViewer.FormClient.receiveDataThreadRun() 位置 d:\lishengli\RemoteScreenViewer\RemoteScreenViewer\FormClient.cs:行号 201
